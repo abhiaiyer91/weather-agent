@@ -1,7 +1,6 @@
 import { Agent } from '@mastra/core/agent';
 import { weatherTool } from '../tools';
 import { scorers } from '../scorers';
-import { LibSQLStore } from '@mastra/libsql';
 import { Memory } from '@mastra/memory';
 
 // Initialize memory with LibSQLStore for persistence using default storage

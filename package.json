@@ -19,6 +19,7 @@
     "@mastra/loggers": "beta",
     "@mastra/libsql": "beta",
     "@mastra/memory": "beta",
+    "@mastra/observability": "beta",
     "difflib": "0.2.4",
     "zod": "^3.25.76"
   },
